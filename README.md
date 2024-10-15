@@ -5,16 +5,27 @@ The Music Store Data Analysis project focuses on analyzing a music store's datab
 # Project Structure
 
 album.csv: Contains information about music albums.
+
 album2.csv: Another album dataset variant.
+
 artist.csv: Contains details about artists.
+
 customer.csv: Contains customer data including personal details and country information.
+
 employee.csv: Contains information about store employees.
+
 invoice.csv: Includes sales data, capturing customer purchases.
+
 track.csv: Contains information about tracks, including genre and album data.
+
 genre.csv: Contains details of music genres.
+
 invoice_line.csv: Stores information about individual lines in each invoice.
+
 media_type.csv: Contains data about different media types.
+
 playlist.csv: Contains playlists created by users.
+
 playlist_track.csv: Stores the relationship between playlists and tracks.
 
 # Technologies Used
